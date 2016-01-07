@@ -1,7 +1,6 @@
 # onboarding
 List of the most used apps &amp; tools @ Woorank
 
-
 ## IDE
 
 - [SublimeText 3](http://www.sublimetext.com)
@@ -104,7 +103,6 @@ set -x NODE_ENV development
 
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [Docker-toolbox](https://www.docker.com/docker-toolbox)
-
 
 ## Password & Security
 
