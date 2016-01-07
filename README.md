@@ -47,7 +47,7 @@ List of the most used apps &amp; tools @ Woorank
 }
 ```
 
-## Db client
+## Db clients
 
 - pgCommander (AppStore)
 - [SequelPro](http://www.sequelpro.com/)
