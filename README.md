@@ -59,6 +59,7 @@ OR
 
 ## Terminal & shell
 
+- [Homebrew](http://brew.sh/)
 - [iTerm2](https://www.iterm2.com/)
 - [fish](http://fishshell.com/)
 
