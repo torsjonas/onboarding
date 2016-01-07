@@ -82,6 +82,7 @@ OR
 - Flycut (AppStore)
 - [Dash](https://kapeli.com/dash)
 - [Divvy](http://mizage.com/divvy)
+- [Dropbox](https://www.dropbox.com/)
 - Paw (AppStore)
 - Slack (AppStore)
 
