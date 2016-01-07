@@ -5,7 +5,9 @@ List of the most used apps &amp; tools @ Woorank
 ## IDE
 
 - [SublimeText 3](http://www.sublimetext.com)
+
 OR
+
 - [Atom](https://atom.io/)
 
 ### SublimeText Packages
